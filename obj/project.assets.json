@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alexis\\projectsNet\\CampusLove\\CampusLove.csproj",
+      "projectUniqueName": "C:\\Users\\Alexis\\Documents\\TrabajosCampus\\CampusLove\\Proyecto_CampusLove_C-\\CampusLove.csproj",
       "projectName": "CampusLove",
-      "projectPath": "C:\\Users\\Alexis\\projectsNet\\CampusLove\\CampusLove.csproj",
+      "projectPath": "C:\\Users\\Alexis\\Documents\\TrabajosCampus\\CampusLove\\Proyecto_CampusLove_C-\\CampusLove.csproj",
       "packagesPath": "C:\\Users\\Alexis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alexis\\projectsNet\\CampusLove\\obj\\",
+      "outputPath": "C:\\Users\\Alexis\\Documents\\TrabajosCampus\\CampusLove\\Proyecto_CampusLove_C-\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alexis\\AppData\\Roaming\\NuGet\\NuGet.Config"
